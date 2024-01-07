@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 190, 110);
+}
+
+.foto {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: auto;
+}
+
+img {
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+}
